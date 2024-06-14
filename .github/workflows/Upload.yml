@@ -12,6 +12,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    continue-on-error: true
 
         
     
@@ -46,7 +47,7 @@ jobs:
           
           git config user.name github-actions
           git config user.email github-actions@github.com
-          timeout -k 10 30m twitch-archiver -D --config-dir ./config --archive-only -t 5 --chat -c ${{ secrets.channel }} -d ./output/
+          timeout -k 10 150m twitch-archiver -D --config-dir ./config --archive-only -t 5 --chat -c ${{ secrets.channel }} -d ./output/
 
           
 
