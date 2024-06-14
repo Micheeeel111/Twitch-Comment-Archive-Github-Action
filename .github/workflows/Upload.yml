@@ -46,7 +46,7 @@ jobs:
           
           git config user.name github-actions
           git config user.email github-actions@github.com
-          timeout -k 10 120m twitch-archiver -D --config-dir ./config --archive-only -t 5 --chat -c ${{ secrets.channel }} -d ./output/
+          timeout -k 10 300m twitch-archiver -D --config-dir ./config --archive-only -t 5 --chat -c ${{ secrets.channel }} -d ./output/
 
           
 
