@@ -1,0 +1,324 @@
+[-50.188] ハーロットマエバコウヘイ: そして時は動き出す
+[-47.889] Coron___: おかえり
+[-46.878] conpuka: バック
+[-45.182] VowOfIshtar: welcome back
+[-42.399] beakerkyouju: おかえり
+[-41.440] numberball9: アンドリューありがとー
+[-33.666] Joeymtl: I don't think the issue is the quantity. the still images were clean.
+[-29.881] 2DQ_Kari: 始まった
+[-22.297] Saitenma: Thats bitrate Joey
+[-20.397] samuragi: jyoobinngail 
+[-18.249] CuteChihuahua: refresh the page if you aint seein it
+[-16.074] ハーロットマエバコウヘイ: いなかったらいってやるよ
+[-14.800] Joeymtl: looks like it was using variable bitrate that struggled during movement
+[-11.339] Saitenma: If the bitrate is too low the more movement on screen the more pixelated
+[-8.716] tk3333: アンドリュー対戦してあげて
+[5.445] ecwolfify: Why is there 3 Daigo's? 
+[9.658] KerdyLives: nah just network
+[10.045] samuragi: no shayyt 
+[14.256] Clinnamon: looks better to me now, have to see during match though
+[16.466] Saitenma: 3.5-5k bitrate should work it out
+[16.983] 2DQ_Kari: 30秒CMうっざ
+[49.795] altay69: try invite poongko?
+[49.975] (M)Moobot: 音声別れてます。The audio in this channel is split. 「Left= English, 右＝日本語」 Playback Devices > Properties > Levels > Balance to change (or take out one earphone).
+[52.286] VowOfIshtar: it should be a bit more work for the pc, too, right?
+[54.832] h2hiroyuki: ぷいきゅあさんと合わせて世界に４人だけのゲームだった？
+[66.769] 2DQ_Kari: イギリス行くらしいよ
+[84.951] VowOfIshtar: itazan's abigail is interesting
+[88.987] VowOfIshtar: he's really conservative
+[94.379] TyrantOrochi: there 4 @ecwolfify , u forgot the action figure in the back
+[94.684] Fluenzo: invite stormkubo 
+[97.899] VowOfIshtar: he plays like sf4 gief
+[100.261] samuragi: itazan never parries LUL
+[106.304] BonGouki: フランスは飯うまいらしいねーいってみたい
+[121.381] 2DQ_Kari: イギリスは美味しくなさそう
+[128.791] VowOfIshtar: poor john, going to vegas instead of somewhere nice
+[129.541] Clinnamon: pizza and hamburgers, god bless America 
+[135.434] KerdyLives: as a vegas resident, fuck that guy
+[136.602] ranmasama: vegas has everything
+[141.268] ハーロットマエバコウヘイ: うまいのかそれ・・・
+[143.350] VowOfIshtar: vegas sucks
+[150.325] Saitenma: Depends on where you go
+[150.871] suhr0917: ﾌｨｯｼｭﾁｯﾌﾟじゃなくて？
+[151.072] tk3333: でも結局日本が1番何でも食べれる
+[151.383] entrony: Kappu
+[155.338] オリーブあぶら: ぐろいなｗ
+[157.399] Saitenma: But vegas is meh anyways
+[166.551] samuragi: hotel = real lyfe LUL
+[168.818] Joeymtl: and hamburgers on pizzas. and hamburger on pizzas flavored chips
+[170.048] (B)(S)DaigoTheBeasTV: 0283
+[178.746] ranmasama: pho Kim long
+[207.489] ranmasama: taco El Gordo is the best
+[209.946] Coron___: ボンちゃんもフォローしたって
+[215.339] Coron___: してあげて
+[222.374] shin4567890: ベガ？
+[224.937] nyaa0: 謎サプリステマアカ
+[225.958] BonGouki: ボンの料理に難癖つけていけ
+[230.743] VowOfIshtar: @Ranmasama i think every city has a restaurant called taco el gordo
+[237.876] CuteChihuahua: is he waiting for precure?
+[239.335] 2DQ_Kari: 誰か香港行くの？
+[243.134] ranmasama: really?
+[247.842] 先日助けてもらった鶴です: きゅあにぃ～
+[253.830] CuteChihuahua: they are all scared
+[256.105] VowOfIshtar: i've lived in two other cities that both had one
+[259.495] ranmasama: now that you say that
+[262.694] VowOfIshtar: and they weren't a chain!
+[268.058] ranmasama: I ate one in San Diego
+[268.422] KerdyLives: the new gay 
+[271.708] VowOfIshtar: i think it's just a popular name
+[290.407] ranmasama: but it's a particular setup
+[300.816] VowOfIshtar: wait, really?
+[303.747] Gtoakira41: Abi GAIL!!!
+[305.069] VowOfIshtar: i never went inside
+[305.688] CuteChihuahua: abi.... GAYYYYYYL
+[307.833] ecwolfify: No Daigo? 
+[308.352] 2DQ_Kari: へー
+[313.950] shin4567890: 食い終わった食器しかとってこないEvoチャンプ
+[317.139] ecwolfify: who the hell are these guys anyway?
+[317.733] VowOfIshtar: i just saw the different signs
+[319.864] ranmasama: ohhhhh. it's only inside. no drive thru
+[320.088] ShadowDancer743: 10 wins streak challenge?
+[331.704] Saitenma: What program are you using to stream
+[342.989] VowOfIshtar: yeah, definitely still pixel-y
+[354.233] VowOfIshtar: such healthy boys here
+[356.771] deathlord99999: LOL nice jabs
+[357.410] shin4567890: アーマーどつきあい ええぞ
+[359.169] Saitenma: xSplit?
+[360.775] Joeymtl: I knew it wasn't the bitrate alone. if you were at 3.5k earlier 
+[377.275] Saitenma: Whats your quality balance on?
+[377.585] Clinnamon: oh well, at least its not choppy
+[378.637] namenamekonkon: ももゲイルによるとアビゲイル同キャラは良いゲームらしいね
+[380.927] CuteChihuahua: maybe its the network
+[382.341] Saitenma: or is that a thing in xsplit?
+[387.512] MagnetsFGC: jiyuLaw
+[388.971] VowOfIshtar: @Ranmasama yeah, i see a name like that and look somewhere else, personally
+[402.063] cyraxd: ABBY pooUNch
+[402.699] KerdyLives: weird the characters look fine and the background is pixelated lol
+[405.780] CuteChihuahua: is precurelove a famous player?
+[410.578] VowOfIshtar: @Ranmasama if it doesn't have a name that sounds like a mexican grandma i'm not interested
+[424.201] Saitenma: Im pretty sure its the quality balance
+[427.274] samuragi: u see rashio mainz mash dem down fiercez LUL
+[430.012] Joeymtl: you're using h264 ?
+[432.277] VowOfIshtar: i didn't see any pixels on the playercam
+[433.417] aikata9: アビゲイル同キャラは深いって言ってたね
+[434.586] Saitenma: If xSplit has a quality balance
+[443.585] shin4567890: johbigail
+[452.097] BonGouki: 浅そうな発言ｗｗ
+[455.878] 先日助けてもらった鶴です: 深海
+[458.673] h2hiroyuki: ジョン君何気にバーディとかデカキャラも触ってるよね
+[461.443] conpuka: ももちも楽しんでいるな
+[495.974] shin4567890: w
+[501.136] 2DQ_Kari: すっごいｗ
+[501.472] 先日助けてもらった鶴です: そればっかかｗ
+[505.695] aikata9: 深淵の一端を見たな
+[511.711] VowOfIshtar: yo, john's abigail is so disrespectful, i love it
+[522.483] shin4567890: あ
+[535.114] Saitenma: When the streaam is over
+[542.669] vergil_angelo: remember when people called him a joke character
+[543.511] Saitenma: Check if xsplit has quality balance
+[559.511] CuteChihuahua: those abigail have some kind of illness?
+[562.703] Saitenma: if it does play around with that setting that's what the pixelation looks like to me
+[565.733] VowOfIshtar: @vergilsbiggerdick i mean, he's still a joke character
+[576.475] VowOfIshtar: @vergilsbiggerdick capcom loves goofy characters
+[580.564] vergil_angelo: joke would be Servbot
+[584.397] vergil_angelo: or Roll
+[586.691] samuragi: abigail new gouki mark muh wordz 
+[592.795] CuteChihuahua: roll is not a joke... she is sexy
+[599.607] Defalus: The fact that you can make unsafe normals safe by cancelling into running>back roll is awesome
+[600.844] Fluenzo: with how much people are turning out ot like abigail the next two season 2 characters better not be wack
+[614.753] VowOfIshtar: i don't think anyone thought he was going to be a joke balance-wise
+[632.446] shin4567890: ようとおったなｗ
+[634.910] (S)balthazar000: ３人はジャパンカップのチーム戦には出るんですかい？
+[647.245] VowOfIshtar: capcom just loves characters like hakan and blanka and such, silly characters
+[651.901] ShadowDancer743: It is a little bit pixelated. Some people don't care much about the quality of the feed. I mean, it's ok for me, but the quality can definitely be improved.
+[662.916] vergil_angelo: Silly makes them more memorable
+[666.912] xvedll: People hate his design but gameplay wise he have potentional
+[681.011] Saitenma: His design is weird af
+[694.280] Clinnamon: I don't like his default, but his alts are cool
+[696.097] VowOfIshtar: @vergilsbiggerdick it's definitely part of what sf is known for
+[698.612] Fluenzo: some people only like characters with serious designs like blanka and dhalsim 
+[705.463] vergil_angelo: Like
+[715.265] Joeymtl: what's your CRF value in xsplit?
+[720.546] shin4567890: johbigailつよいな
+[725.903] vergil_angelo: Ed doesn't give the same impression as Abigail
+[729.769] VowOfIshtar: I mean, this is the same company that makes monster hunter
+[732.606] WirelessCow: Is Itazan playing abgail?
+[737.792] (S)balthazar000: ジョビン！？
+[738.572] VowOfIshtar: like, they love silly junk and cool stuff mixed
+[745.180] Lamarr123: 3s has weird characters like necro too
+[747.906] VowOfIshtar: @Ren____________Ren yes, and his abigail is good
+[748.122] vergil_angelo: It's like comparing Remy to Q
+[749.202] ハーロットマエバコウヘイ: ありがとー
+[752.131] Fluenzo: there's no way itabashi would drop gief lol
+[758.673] (S)balthazar000: きゅあにぃおつかれやで
+[762.964] Saitenma: Valle's been playing it as well
+[763.011] vergil_angelo: Who wants Remy over Q
+[764.469] AStat321: he thicc too
+[772.927] Saitenma: Alot of people are just playing it to get a feel for it
+[779.407] xvedll: He like Hugo design
+[781.858] KerdyLives: gotta go, hope y'all get those encoding issues figured out soon
+[802.662] vergil_angelo: Technically, Hugo is designed after Abigail
+[809.873] ハーロットマエバコウヘイ: また困ったときは呼んでくれッ（ ・`ー・´）
+[810.524] VowOfIshtar: i think the statement that 3S is "cool" is more a matter of presentation than anything about the characters. like, oro is silly, no question, but that game is just presented with so much style
+[853.744] 先日助けてもらった鶴です: きゅ・・・
+[870.697] Joeymtl: I want rap in my character selection screen
+[871.276] VowOfIshtar: i love watching these kids play! they're really good and it's fun to watch them grow as players and personalities
+[878.882] xvedll: 3s is like combine hip hop style and street style or thug style underground
+[886.295] ハーロットマエバコウヘイ: ましろといえば
+[892.262] VowOfIshtar: @Joeymtl honestly, that was the best character select music in the history of this genre
+[896.122] samuragi: yesterday's hatsume got way more viewerz than dis, although it's much more cancerous LUL
+[897.789] 先日助けてもらった鶴です: どんなゲームだろう
+[909.554] ハーロットマエバコウヘイ: ヤツしかいねぇ・・・
+[909.808] numberball9: たち
+[914.870] AStat321: S T I C C VS T H I C C
+[915.335] aikata9: たち・・
+[916.272] Lamarr123: abi's armour could give sim problems
+[927.087] ranmasama: Who's hatsume
+[930.139] VowOfIshtar: sticc
+[932.274] VowOfIshtar: i'm dead
+[950.952] Joeymtl: capcom is scared the young players wouldn't like the 90s vibe though
+[951.115] (M)Moobot: 音声別れてます。The audio in this channel is split. 「Left= English, 右＝日本語」 Playback Devices > Properties > Levels > Balance to change (or take out one earphone).
+[951.562] 2DQ_Kari: マゴさんちそろそろ追い出されてる？
+[952.548] VowOfIshtar: those legs
+[952.794] (S)balthazar000: ひでぇ
+[965.393] ハーロットマエバコウヘイ: ﾜｶﾝﾈｪﾖ
+[969.534] VowOfIshtar: @Joeymtl i mean, hip hop is more popular than ever
+[971.731] shin4567890: アーマーで無理やり寄る？
+[976.134] VowOfIshtar: like, they should just do it
+[976.881] 先日助けてもらった鶴です: もうおしまいだぁー
+[977.965] h2hiroyuki: 適当Vスキル当てるしかない
+[978.714] Joeymtl: not that kind of hiphop though
+[988.006] (S)balthazar000: きゅあにぃもお手上げ
+[988.418] aikata9: すごｗ
+[993.572] hoehoeR: タチうめーな
+[994.495] HiFightTH: I don't think Sim is that bad for Abigail
+[995.981] VowOfIshtar: @Joeymtl eh, sure, but they could still do it
+[1001.438] samuragi: sennnin NO.2 
+[1003.942] VowOfIshtar: @Joeymtl ed's theme was super popular
+[1004.316] ハーロットマエバコウヘイ: これに勝つのきっちいｗ
+[1016.288] Clinnamon: I love Ed's theme FeelsGoodMan
+[1022.141] xvedll: Dog 90 vibe hip hop jazz shit on Morden Capcom music by mile. They have soul into it
+[1023.946] VowOfIshtar: ed's theme is the best part of the character LO
+[1026.041] Clinnamon: SFV has really good music
+[1030.090] VowOfIshtar: um, :P, not LO
+[1034.077] samuragi: all about dem gailz after all LUL
+[1056.074] VowOfIshtar: SO MUCH DONKEY KONG
+[1061.058] shin4567890: いい圧だ
+[1062.377] ハーロットマエバコウヘイ: アルねぇ
+[1066.736] hoehoeR: 押しつけていけ
+[1066.944] cyraxd: ABBY Slaaapuu
+[1069.148] shin4567890: 筋肉 ぶつけていけ
+[1101.434] Joeymtl: sf needs more 90s hiphop/drum&bass and japanese fusion jazz
+[1102.392] shin4567890: これはダルぐつるわｗ
+[1105.986] VowOfIshtar: i love how much fun these kids are having
+[1113.196] sagecomand: あれ？ましろちゃん？
+[1115.140] ~MISSING_COMMENTER_INFO~: funny to hear Jyuna commentating on a game he's always shitting on
+[1120.080] samuragi: no reflect super why live 
+[1122.664] xvedll: Man this match worst for daslim
+[1123.864] VowOfIshtar: i honestly tune in for the young player streams more than the actual ones
+[1124.427] AStat321: smh i gotta follow just so i can shitpost
+[1134.327] shin4567890: 頭アビゲイルにすれば勝てる
+[1143.235] Avengence01: the hell is diago?
+[1145.649] ハーロットマエバコウヘイ: EXドンキーではめるべ
+[1155.889] Kay_efsy: daigo busy bodying fools at abuget cup
+[1161.908] (S)balthazar000: ジャンプ遅いから逃げるの難しいか
+[1165.875] 立川: なんやこれwww
+[1171.587] shin4567890: これダルシム不利まであるのか？
+[1173.150] VowOfIshtar: so much pressure!
+[1174.781] (S)balthazar000: むちゃくちゃw
+[1176.046] samuragi: dashup yolo 
+[1180.579] numberball9: 台パン待ったなし
+[1186.155] Joeymtl: rashid mind in a giant body
+[1214.560] samuragi: u can vreversal 1,2 times John pls 
+[1215.237] shin4567890: ある
+[1241.968] VowOfIshtar: what!!
+[1245.630] samuragi: homin 
+[1249.699] AStat321: 諦めないよ！
+[1250.550] VowOfIshtar: the turnaround parry
+[1253.392] sazanami657: 相手立川？名前的に
+[1258.137] ハーロットマエバコウヘイ: これアビゲイルきわまってるでしょ
+[1276.221] AStat321: NEVER GIVE UP
+[1277.713] shin4567890: アビゲイル久保も韓国saveにランクマ勝ってたで。アビゲイルわからんぽい動きだったけどｗ
+[1284.627] VowOfIshtar: we believe in you john!
+[1310.456] Kay_efsy: obama commentating SFV oh boy
+[1322.216] samuragi: hey not bad 
+[1329.445] VowOfIshtar: very nice
+[1331.227] KaLam1ty: PogChamp
+[1332.296] AStat321: is he gonna be in his that 70s show cosplay then too??
+[1332.347] 先日助けてもらった鶴です: ダルシムの体力３にしろ
+[1355.685] shin4567890: 1事故で5割
+[1412.679] KaLam1ty: nice la
+[1414.301] shin4567890: GG
+[1417.215] KaLam1ty: haha
+[1419.167] h2hiroyuki: ジャンプ大K長えｗ
+[1421.400] AStat321: Is Punk the VA for Abigail????
+[1428.991] samuragi: do it again LUL
+[1431.239] ハーロットマエバコウヘイ: ｗｗ
+[1443.597] 2DQ_Kari: いい勝負ｗ
+[1448.501] 先日助けてもらった鶴です: はちゃめちゃが押し寄せてくる
+[1450.145] shin4567890: これはクソキャラ（ホメ言葉
+[1451.870] sagecomand: 滅茶苦茶だよお・・・
+[1458.645] Lamarr123: you have to charge just a bit to juggle with his hard punches
+[1460.097] ハーロットマエバコウヘイ: アビ叫喚
+[1466.675] xvedll: They make abageil brain dead
+[1490.433] shin4567890: ナイススラ
+[1505.466] shin4567890: やーーーる
+[1548.716] samuragi: too many parries 
+[1552.912] shin4567890: 可能性の塊
+[1553.151] KaLam1ty: TURN UP, this guy is crazy as fuck he's gotta be on molly or some powder or something.
+[1584.226] Rackddup420: pink molly
+[1586.097] (B)(S)DaigoTheBeasTV: player cam pixelated too?
+[1589.482] 先日助けてもらった鶴です: いったい何川だったんだ・・・
+[1597.229] deucesGR: thats yamadataro
+[1599.753] r_a_f_i: yeah a bit
+[1603.559] ShadowDancer743: i little birt
+[1607.832] Clinnamon: its a little fuzzy, but not nearly as bad as the game
+[1608.213] (B)(S)DaigoTheBeasTV: hmm....
+[1610.794] CuteChihuahua: they look a lil pixelated, but good enoughg
+[1619.638] r_a_f_i: more noticeable in game
+[1641.666] alphadavettv: Those dudes look like anime characters
+[1651.923] Rackddup420: john look lit
+[1654.659] Megasizer: young bois! kappaPride
+[1662.739] (S)balthazar000: エイリアンとサイン
+[1662.754] conpuka: w
+[1669.880] CalamityW: レイジカラーのアビはよ
+[1673.699] shin4567890: ということでね
+[1686.466] HiFightTH: Yodobashi Umeda (Osaka)
+[1708.498] AStat321: whens the mizuha makeover
+[1713.920] Coron___: みんあがんばえー
+[1726.182] 2DQ_Kari: この後はスカイ？
+[1730.184] (S)balthazar000: チームメンバーはどんな感じで？
+[1734.537] alphadavettv: where's daigo at
+[1758.185] ハーロットマエバコウヘイ: おつかれー!
+[1764.791] alphadavettv: thanks commentator keep up the good work
+[1779.350] CalamityW: おつおつ
+[1781.497] conpuka: なうにぃ
+[1781.938] xanthippe0: お疲れ様でしたー
+[1783.921] BonGouki: 頑張れ若者
+[1784.379] hoehoeR: お疲れ様でした～
+[1792.101] 2DQ_Kari: おつかれサマー
+[1794.568] Coron___: おつー
+[1807.887] AStat321: top 8 starts at 20 00 jp time
+[1807.973] (S)balthazar000: おつおつ
+[1811.123] kurokoshou: おつ
+[1812.006] Kentaro44: 乙
+[1813.072] shin4567890: おつおつ
+[1813.502] suhr0917: おつー
+[1814.698] ハーロットマエバコウヘイ: ばい
+[1815.186] (B)(S)DaigoTheBeasTV: ok so in 3 hours
+[1815.223] CalamityW: ノシ
+[1817.026] AtomPeter: おっつー
+[1818.313] suhr0917: おもしろかったぞ
+[1819.136] (B)(S)DaigoTheBeasTV: I'm going home to watch
+[1820.057] conpuka: 乙
+[1838.243] alphadavettv: you live in japan?
+[1841.569] (B)(S)DaigoTheBeasTV: yup
+[1845.408] (S)balthazar000: インドネシアはこれから鉄拳かな？
+[1846.948] alphadavettv: nice
+[1848.400] alphadavettv: see ya man
+[1851.208] CalamityW: 鉄拳だな
+[1851.421] (M)Moobot: 音声別れてます。The audio in this channel is split. 「Left= English, 右＝日本語」 Playback Devices > Properties > Levels > Balance to change (or take out one earphone).
+[1873.071] (B)(S)DaigoTheBeasTV: AH!
+[1877.971] (B)(S)DaigoTheBeasTV: I figured out why it was pixelated
+[1879.497] (B)(S)DaigoTheBeasTV: woops
+[1897.840] alphadavettv: well
