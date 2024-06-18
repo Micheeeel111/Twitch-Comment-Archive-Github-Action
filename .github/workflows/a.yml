@@ -1,0 +1,88 @@
+name: Free Disk Space (Ubuntu)
+on: push
+
+jobs:
+  free-disk-space:
+    runs-on: ubuntu-latest
+    steps:
+
+     - name: Free Disk Space (Ubuntu)
+       uses: jlumbroso/free-disk-space@main
+       with:
+        # this might remove tools that are actually needed,
+        # if set to "true" but frees about 6 GB
+        tool-cache: false
+        
+        # all of these default to true, but feel free to set to
+        # "false" if necessary for your workflow
+        android: true
+        dotnet: true
+        haskell: true
+        large-packages: true
+        docker-images: true
+        swap-storage: true
+
+
+     - uses: actions/checkout@v4
+       with:
+         fetch-depth: 0
+         
+     - name: Set up Python 3.11
+       uses: actions/setup-python@v4
+       with:
+          python-version: "3.11"
+
+     - name: Install dependencies
+       run: |
+          python -m pip install --upgrade pip
+          pip install git+https://github.com/Brisppy/twitch-archiver
+      
+     - name: decompress
+       if: always()
+       run: |
+           python ./deco.py
+
+     - name: DL CHATS
+       run: |
+          
+
+          
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          timeout -k 10 35m twitch-archiver -D --config-dir ./config --archive-only -t 5 --chat -c ${{ secrets.channel }} -d ./output/
+
+          
+
+
+     - name: compress
+       if: always()
+       run: |
+        
+          python ./split.py
+
+          
+
+
+
+
+
+
+
+     - name: PUSH
+       if: always()
+       run: |
+          git fsck
+          git add ./output
+          git add ./config
+          timestamp=$(date -u)
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" 
+          git pull
+          git push origin main
+          git status || exit 0
+         
+          
+
+       env:
+          TZ: "Asia/Tokyo"
+        
