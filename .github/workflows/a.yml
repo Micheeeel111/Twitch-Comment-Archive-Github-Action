@@ -45,6 +45,8 @@ jobs:
        if: always()
        run: |
            python ./deco.py
+           python ./deco2.py
+
 
      - name: DL CHATS
        run: |
@@ -63,6 +65,7 @@ jobs:
        run: |
         
           python ./split.py
+          python ./split2.py
 
           
 
